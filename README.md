@@ -1,0 +1,1 @@
+This project aims to create a automated setup system to install, configure and prepare ZephyrRTOS development environment on MacOS.
